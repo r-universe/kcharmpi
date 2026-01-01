@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "PEPBVS"]
 	path = PEPBVS
-	url = https://github.com/cran/PEPBVS
+	url = https://github.com/kcharmpi/pepbvs
